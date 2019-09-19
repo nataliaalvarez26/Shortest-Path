@@ -5,9 +5,7 @@ import java.util.List;
 import java.util.*;
 
 /**
- * Program 3
- * Natalia Alvarez cssc0847
- * Jennie Sprague cssc0837
+ * Natalia Alvarez
  */
 
 public class DirectedGraph<V extends Comparable<V>> implements IGraph<V> {
