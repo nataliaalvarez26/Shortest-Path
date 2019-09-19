@@ -14,9 +14,7 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 /**
- * Program 3
- * Natalia Alvarez cssc0847
- * Jennie Sprague cssc0837
+ * Natalia Alvarez
  */
 public class App {
     static Path curPath;
